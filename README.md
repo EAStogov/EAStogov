@@ -12,4 +12,4 @@
 
 
 ### Активность
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?EAStogov=Ashutosh00710&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EAStogov&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
