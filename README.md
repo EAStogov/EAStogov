@@ -12,7 +12,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### Активность
+## Моя статистика
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EAStogov&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=EAStogov&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EAStogov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=EAStogov&show_icons=true&count_private=true&width=10px)](https://github.com/anuraghazra/github-readme-stats)
